@@ -1,4 +1,4 @@
-package com.duoc.hotel_api;
+package com.duoc.hotelapi;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
