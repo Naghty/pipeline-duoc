@@ -16,7 +16,7 @@ public class ApiController {
     public ResponseEntity<Map<String, String>> health() {
         Map<String, String> response = new HashMap<>();
         response.put("status", "UP");
-        response.put("mensaje", "Aplicacion funcionando correctamente");
+        response.put("mensaje", "Aplicacion funcionando demo para video");
         return ResponseEntity.ok(response);
     }
 
